@@ -27,7 +27,7 @@ Using the raw layoffs dataset, this project focuses on preparing the data for an
 * ❌ Handling Missing & Null Values
 * 🗃️ Table Creation & Data Transformation
 
-💡 **View Full Project 1 Details (README)** → `/PROJECT 1 DATA CLEANING/README.md`
+💡 [**View Full Project 1 Details (README)**](./PROJECT_1_DATA_CLEANING/README.md)
 
 ---
 
@@ -48,7 +48,7 @@ Building upon the cleaned dataset from Project 1, this project explores global l
 * 📉 Rolling Totals
 * 🔍 Business Insight Generation
 
-💡 **View Full Project 2 Details (README)** → `/PROJECT 2 DATA ANALYZING/readme.md ` 
+💡 [**View Full Project 2 Details (README)**](./PROJECT_2_DATA_ANALYZING/readme.md)
 
 ---
 
